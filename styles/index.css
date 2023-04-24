@@ -1,0 +1,11 @@
+.rabtle-container {
+    position: absolute;
+    top: 96%;
+    z-index: 99;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    transform: scale(-1,1);
+}

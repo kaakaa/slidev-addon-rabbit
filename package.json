@@ -1,0 +1,32 @@
+{
+  "name": "slidev-addon-rabbit",
+  "version": "0.1.0",
+  "description": "Slidev addon for presentation time management inspired Rabbit",
+  "scripts": {
+    "dev": "slidev example.md",
+    "build": "slidev build example.md",
+    "export": "slidev export example.md",
+    "screenshot": "slidev export example.md --format png"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaakaa/slidev-addon-rabbit.git"
+  },
+  "keywords": [
+    "slidev-addon",
+    "slidev"
+  ],
+  "author": "kaakaa",
+  "license": "MIT",
+  "devDependencies": {
+    "@iconify-json/emojione-monotone": "^1.1.4",
+    "@slidev/cli": "^0.40.14"
+  },
+  "dependencies": {
+    "@slidev/theme-default": "^0.21.2"
+  },
+  "bugs": {
+    "url": "https://github.com/kaakaa/slidev-addon-rabbit/issues"
+  },
+  "homepage": "https://github.com/kaakaa/slidev-addon-rabbit#readme"
+}
