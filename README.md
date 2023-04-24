@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/slidev-addon-rabbit.svg)](https://badge.fury.io/js/slidev-addon-rabbit)
 # slidev-addon-rabbit
 
 Presentation time management for slidev inspired by [rabbit\-shocker/rabbit](https://github.com/rabbit-shocker/rabbit/) | [Rabbit \- はじめに](https://rabbit-shocker.org/ja/)
