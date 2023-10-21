@@ -10,7 +10,8 @@
     "dev": "slidev example.md --remote 0.0.0.0",
     "build": "slidev build example.md",
     "export": "slidev export example.md",
-    "screenshot": "slidev export example.md --format png"
+    "screenshot": "slidev export example.md --format png",
+    "test": "echo there is no test."
   },
   "repository": {
     "type": "git",
