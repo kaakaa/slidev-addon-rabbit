@@ -21,7 +21,7 @@ jobs:
   publish-npm:
     needs: build
     runs-on: ubuntu-latest
-    permissiong:
+    permissions:
       contents: read
       id-token: write
     steps:
