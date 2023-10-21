@@ -1,9 +1,13 @@
 {
   "name": "slidev-addon-rabbit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Slidev addon for presentation time management inspired Rabbit",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.5.0"
+  },
   "scripts": {
-    "dev": "slidev example.md",
+    "dev": "slidev example.md --remote 0.0.0.0",
     "build": "slidev build example.md",
     "export": "slidev export example.md",
     "screenshot": "slidev export example.md --format png"
@@ -20,7 +24,7 @@
   "license": "MIT",
   "devDependencies": {
     "@iconify-json/emojione-monotone": "^1.1.4",
-    "@slidev/cli": "^0.40.14"
+    "@slidev/cli": "^0.43.7"
   },
   "dependencies": {
     "@slidev/theme-default": "^0.21.2"
