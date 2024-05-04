@@ -23,7 +23,8 @@ https://kaakaa.github.io/slidev-rabbit-turtle/1?time=1
 
 ## Configs
 
-```
+
+```yaml
 ---
 theme: seriph
 highlighter: shiki
@@ -33,7 +34,7 @@ addons:
 rabbit:
   slideNum: true   # Show current/total slide numbers next to a rabbit icon
 ---
----
+```
 
 # License
 
