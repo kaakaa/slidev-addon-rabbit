@@ -26,13 +26,12 @@ https://kaakaa.github.io/slidev-rabbit-turtle/1?time=1
 
 ```yaml
 ---
-theme: seriph
-highlighter: shiki
 ...
 addons:
   - slidev-addon-rabbit
 rabbit:
   slideNum: true   # Show current/total slide numbers next to a rabbit icon
+...
 ---
 ```
 
