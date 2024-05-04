@@ -21,6 +21,20 @@ https://kaakaa.github.io/slidev-rabbit-turtle/1?time=1
 3. Attach url query `?time=10` to presentation url, and access it
    - e.g.: `http://localhost:3030/?time=10`
 
+## Configs
+
+
+```yaml
+---
+...
+addons:
+  - slidev-addon-rabbit
+rabbit:
+  slideNum: true   # Show current/total slide numbers next to a rabbit icon
+...
+---
+```
+
 # License
 
 This repository distributes under [MIT License](./LICENSE)
