@@ -24,11 +24,11 @@
   "author": "kaakaa",
   "license": "MIT",
   "devDependencies": {
-    "@iconify-json/emojione-monotone": "^1.1.4",
-    "@slidev/cli": "^0.43.7"
+    "@slidev/cli": "^0.43.7",
+    "@slidev/theme-default": "^0.21.2"
   },
   "dependencies": {
-    "@slidev/theme-default": "^0.21.2"
+    "@iconify-json/emojione-monotone": "^1.1.4"
   },
   "bugs": {
     "url": "https://github.com/kaakaa/slidev-addon-rabbit/issues"
