@@ -1,6 +1,6 @@
 {
   "name": "slidev-addon-rabbit",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Slidev addon for presentation time management inspired Rabbit",
   "engines": {
     "node": ">=18.0.0",
