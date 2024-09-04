@@ -17,12 +17,12 @@
 <script setup>
 import { computed } from 'vue';
 
+const showSlideNum = $slidev.configs?.rabbit?.slideNum ?? false;
+
 const total = $slidev.nav.total;
 const canvasWidth = $slidev.configs.canvasWidth;
-const tooltipWidth = 60;
+const tooltipWidth = showSlideNum ? 60 : 0;
 const marginRight = 20; // To display rabbit icon on last page
-
-const showSlideNum = $slidev.configs?.rabbit?.slideNum ?? false;
 
 const props = defineProps({
   current: Number,
