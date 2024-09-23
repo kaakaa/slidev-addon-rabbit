@@ -5,7 +5,7 @@ Presentation time management for slidev inspired by [rabbit\-shocker/rabbit](htt
 
 # Demo
 
-https://kaakaa.github.io/slidev-rabbit-turtle/1?time=1
+https://kaakaa.github.io/slidev-addon-rabbit/4?time=1
 
 ![](./assets/screen.gif)
 
