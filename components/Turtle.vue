@@ -1,5 +1,5 @@
 <template>
-  <div class="rabtle-container" :style="{left: left + 'px'}">
+  <div class="rabbit-container" :style="{left: left + 'px'}">
     <emojione-monotone-turtle class="icon" />
   </div>
 </template>

@@ -11,6 +11,8 @@ https://kaakaa.github.io/slidev-addon-rabbit/1?time=1
 
 ## Description
 
+As the presentation begins, the rabbit and the turtle aim for the goal. **The rabbit** represents **the current page**, and **the turtle** represents **the elapsed time** since the start. Let's guide the rabbit to the goal before the turtle arrives, ensuring everyone has enough leisure time.
+
 ![](./assets/description.png)
 
 ## Usage
