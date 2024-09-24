@@ -1,5 +1,5 @@
 <template>
-  <div class="rabtle-container" :style="{left: pos + 'px'}">
+  <div class="rabbit-container" :style="{left: pos + 'px'}">
     <emojione-monotone-rabbit class="icon" />
     <div
       class="py-1 px-1 text-xs bg-white bg-opacity-20 rounded-md text-center"
